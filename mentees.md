@@ -13,3 +13,10 @@ GMT + 1
 Direction, career advice, projects, a good time :D  email me jkressel@gmu.edu
 ## Timezone
 GMT + 5
+
+
+# AndrewJudson [github](https://github.com/AndrewJudson)
+## Requesting
+Career advice, direction, improving work efficiency, software engineering, machine learning, Storm, Mahout, numpy, pandas, problems to work on
+## Timezone
+PST
