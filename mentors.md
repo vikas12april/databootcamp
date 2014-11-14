@@ -8,3 +8,11 @@ _last updated: 13/11/2014_
 
 ### Timezone
 GMT
+
+## John Hogue [github](http://ww.github.com/dreyco676)
+
+### Offering
+`Python`, `SciKit-Learn`, `NLTK`, Text Classification, Machine Learning, MapReduce, Pig, Data Federation, careers advice
+
+### Timezone
+CST
