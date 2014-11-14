@@ -25,6 +25,7 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 4. Save the file and put in a pull request.
 5. Mentees who are interested in your offering are going to contact you. It's up to you what you arrange between yourselves.
 6. If you have as many mentees as you can handle or you can't take on anyone for the time being, let me know and I'll suspend you (or simply do it yourself by strikethroughing your name and putting it to the bottom of the list). You can always unsuspend yourself by re-entering your name or removing the strikethrough.
+7. If you and your mentee are happy to put your pairing public, don't forget to [edit the relevant wiki page](https://github.com/chrisvoncsefalvay/databootcamp/wiki/Mentor-mentee-pairings).
 7. If you want to permanently quit the program, let me know and I'll remove your name (or you can do it yourself, too).
 
 ## Mentees
