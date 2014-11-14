@@ -8,7 +8,7 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 ## Mentors
 
 1. Clone the repo.
-2. Make sure your Github account [has a public e-mail address assigned to it](https://github.com/settings/emails). 
+2. Make sure your Github account [has a public e-mail address assigned to it](https://github.com/settings/emails).
 3. Open `mentors.md`. Add your name in the following format:
 
 ```
@@ -23,13 +23,13 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 ```
 
 4. Save the file and put in a pull request.
-5. Mentees who are interested in your offering are going to contact you. It's up to you what you arrange between yourselves. 
+5. Mentees who are interested in your offering are going to contact you. It's up to you what you arrange between yourselves.
 6. If you have as many mentees as you can handle or you can't take on anyone for the time being, let me know and I'll suspend you (or simply do it yourself by strikethroughing your name and putting it to the bottom of the list). You can always unsuspend yourself by re-entering your name or removing the strikethrough.
 7. If you want to permanently quit the program, let me know and I'll remove your name (or you can do it yourself, too).
 
 ## Mentees
 
-1. Look at mentees.md. Check if there is someone whom you might want to get in touch with.
+1. Look at mentors.md. Check if there is someone whom you might want to get in touch with.
 2. If you can't find anyone who could mentor you, follow the same steps as above except for the `mentees.md` file.
 3. Scour the `mentors.md` file every now and then.
 
@@ -38,8 +38,8 @@ Data Science Boot Camp is the first mentor-mentee exchange for people who want t
 1. This is a safe space. We operate a zero tolerance policy for harassment, discriminatory behaviour, stalking and other creepy stuff. Please don't ruin this product.
 2. Being a mentor invites you to be respectful towards your mentee and see your past self in him. Aspire to be the mentor you wish you had when you were learning.
 3. Do not enter the programme to hire or get hired. Do not expect any benefit other than knowledge.
-4. You can discuss your homework with your mentor if that would be permissible under your academic institution's honour code, but it's *your* homework. Don't make your mentor do your homework – you both lose out. 
-5. *Stay safe*. It's your duty to look out for your own safety. Do not share more than you feel you need to – keep it strictly academic and professional. 
+4. You can discuss your homework with your mentor if that would be permissible under your academic institution's honour code, but it's *your* homework. Don't make your mentor do your homework – you both lose out.
+5. *Stay safe*. It's your duty to look out for your own safety. Do not share more than you feel you need to – keep it strictly academic and professional.
 6. Above all, [be excellent to each other](http://www.youtube.com/watch?v=N_yJFLvmjJY).
 
 ![Party on, dudes!](http://media.giphy.com/media/POekkUcKs16gg/giphy.gif)
