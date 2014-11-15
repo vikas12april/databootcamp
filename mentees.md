@@ -8,7 +8,7 @@ Machine learning in general, careers advice, someone that I can turn to
 GMT + 1
 
 
-## StayDynamic  [github](https://github.com/StayDynamic/databootcamp)
+# StayDynamic  [github](https://github.com/StayDynamic/databootcamp)
 ## Requesting
 Direction, career advice, projects, a good time :D  email me jkressel@gmu.edu
 ## Timezone
