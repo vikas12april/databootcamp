@@ -1,5 +1,5 @@
 # Mentees
-_last updated: 13/11/2014_
+_last updated: 14/11/2014_
 
 ## SLOBYYYY  [github](https://github.com/SLOBYYYY/databootcamp)
 ## Requesting
@@ -21,9 +21,15 @@ Career advice, direction, improving work efficiency, software engineering, machi
 ## Timezone
 PST
 
-
 # Gideon Wulfsohn [github](https://github.com/gwulfs)
 ## Requesting
 NLP and Timeseries guidance for eos2.io. Currently using NLTK, gensim, sklearn, pandas, flask.
 ## Timezone
 EST &/or PST
+
+# Padarn [github](https://github/Padarn)
+## Requesting
+An experienced data scientist who can help me build some intuition and help in identifying areas I need to strengthen to improve my work. Medium experience level.
+Also just interested in other like minded people interesting on working on projects together to learn.
+## Timezone
+GMT + 0
