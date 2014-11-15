@@ -20,3 +20,11 @@ GMT + 5
 Career advice, direction, improving work efficiency, software engineering, machine learning, Storm, Mahout, numpy, pandas, problems to work on
 ## Timezone
 PST
+
+# Padarn [github](https://github/Padarn
+## Requesting
+An experienced data scientist who can help me build some intuition and help in identifying areas I need to strengthen to improve my work. Medium experience level.
+
+Also just interested in other like minded people interesting on working on pojects together to learn.
+## Timezone
+GMT + 0
