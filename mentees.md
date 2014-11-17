@@ -1,6 +1,13 @@
 # Mentees
 _last updated: 14/11/2014_
 
+## DataScienceFan  [github](https://github.com/datasciencefan/databootcamp)
+### Requesting
+Provide direction for someone starting out, point me towards projects/resources to learn from, Python, R, career advice
+### Timezone
+PST (GMT - 8)
+
+
 ## SLOBYYYY  [github](https://github.com/SLOBYYYY/databootcamp)
 ### Requesting
 Machine learning in general, careers advice, someone that I can turn to
