@@ -1,5 +1,7 @@
 # Mentors
-_last updated: 14/11/2014_
+_last updated: 17/11/2014_
+
+**Prospective mentors**: Please **MAKE SURE YOUR GITHUB ACCOUNT HAS AN E-MAIL ADDRESS** or enter your e-mail address instead of your Github account. We all are pretty magic, but your mentees do need some way to contact you :)
 
 ## Chris von Csefalvay [github](http://www.github.com/chrisvoncsefalvay)
 
