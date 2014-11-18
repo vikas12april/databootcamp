@@ -26,3 +26,12 @@ US-Central
 
 ### Timezone
 CST
+
+
+## Kirk Hadley [github](http://www.github.com/KirkHadley)
+
+### Offering
+`Python` `SciKit-Learn`, `Deep learning and Neural Nets`, `Machine Learning`, `Pandas`
+
+### Timezone
+EST 
